@@ -1,0 +1,7 @@
+{
+  "name": "ovvoc-test-pro-37",
+  "version": "1.0.0",
+  "description": "E-commerce models with Mongoose 6",
+  "scripts": { "test": "node test/models.test.js" },
+  "dependencies": { "mongoose": "6.12.3" }
+}
